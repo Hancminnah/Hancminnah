@@ -1,4 +1,4 @@
-- 👋 Hi, I am Min Min
+- 👋 Hi, I am Chan Min Min
 - 👀 I’m interested in data science, machine learning, deep learning
 - 📫 We can connect on LinkedIn through https://www.linkedin.com/in/min-min-chan-b93194100/
 
